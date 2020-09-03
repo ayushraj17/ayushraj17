@@ -4,5 +4,5 @@
 - 📫 How to reach me: meayushraj17@gmail.com
 
 Skills:
-> ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+> ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg =250x250)
 

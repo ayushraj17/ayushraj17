@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 
 - 🌱 I’m currently learning MERN stack.
-  <!-- - 👯 I’m looking to collaborate with other content creators -->
+- 👯 I’m looking to for a job in Web Developmeent.
   <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 - ⚡ Fun fact: I love to code
 

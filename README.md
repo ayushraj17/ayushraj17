@@ -25,7 +25,7 @@
 ### Languages and Tools:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![Gatsby]((https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
 ![React%20Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)

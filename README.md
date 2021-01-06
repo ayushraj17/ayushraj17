@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-00000?style=flat&logo=javascript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=javascript&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)

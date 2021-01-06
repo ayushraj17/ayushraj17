@@ -27,7 +27,7 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
 ![React%20Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EA?logo=strapi)
+![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
